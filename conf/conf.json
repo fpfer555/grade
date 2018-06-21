@@ -1,0 +1,18 @@
+{
+  "expiration_time": 2592000,
+  "page_num": 30,
+  "account_expires": {
+    "year": 2019,
+    "month": 1,
+    "day": 1
+  }, 
+  "dbs": [
+    {
+      "host": "sh-cdb-r3kfp4b4.sql.tencentcdb.com",
+      "port": 63365,
+      "user": "root",
+      "password": "Justice123###",
+      "db": "db_test"
+    }
+  ]
+}
